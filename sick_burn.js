@@ -34,6 +34,9 @@ checkState = () => {
 
 setTitle = (number) => {
   stateTitle.innerText = DataSet[number].title;
+  if (number === 5){
+    document.title = '위로 | 팩폭문학가'
+  }
 };
 
 setImage = (number) => {
