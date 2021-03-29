@@ -99,7 +99,7 @@ body {
   background-color: white;
 }
 
-@media screen {
+@media (min-width:800px) {
   .imageContainer {
     width: 40%;
     height: 35%;

@@ -96,7 +96,7 @@ body {
     align-items: center;
 }
 
-@media screen {
+@media (min-width:800px) {
     .titleContainer{
         width: 50%;
     }
