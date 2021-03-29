@@ -65,3 +65,14 @@ body {
 .HIDE{
     display: none;
 }
+
+@media screen{
+    .titleContainer{
+        width: 50%;
+    }
+    .stateContainer{
+        width: 50%;
+        height:15%;
+        margin-bottom: 2%;
+    }
+}

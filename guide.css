@@ -95,3 +95,20 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+@media screen {
+    .titleContainer{
+        width: 50%;
+    }
+    .explanationContainer{
+        width: 50%;
+        height: 40%;
+    }
+    .stepContainer{
+        width: 50%;
+        height: 35%;
+    }
+    .secondStep{
+        margin-bottom: 2.5%;
+    }
+}
