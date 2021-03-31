@@ -20,7 +20,7 @@ body {
 
 .titleContainer h1 {
   width: 60%;
-  font-size: 1.25em;
+  font-size: 1.5em;
   font-weight: 700;
   text-align: center;
 }
@@ -58,7 +58,7 @@ body {
   border-radius: 0.5rem;
   cursor: pointer;
   box-shadow: 0 0.1rem 0.2rem rgb(0, 0, 0,0.3), 0 0.1rem 0.1rem rgb(0, 0, 0,0.3);
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
