@@ -64,6 +64,7 @@ body {
 .explanationContainer p {
   width: 90%;
   font-size: 0.9rem;
+  font-weight: 600;
   text-align: center;
 }
 
@@ -80,6 +81,7 @@ body {
 .stepContainer p {
   width: 90%;
   font-size: 0.9rem;
+  font-weight: 600;
   text-align: center;
 }
 
@@ -104,10 +106,8 @@ body {
   }
   .explanationContainer {
     width: 40%;
-    height: 40%;
   }
   .stepContainer {
     width: 40%;
-    height: 35%;
   }
 }

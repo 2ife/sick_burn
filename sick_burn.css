@@ -63,13 +63,13 @@ body {
 }
 
 .sayingContainer p {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 600;
 }
 
 .sayingContainer span {
-  font-size: 0.75rem;
-  font-weight: 500;
+  font-size: 0.7rem;
+  font-weight: 600;
 }
 
 .linkContainer {
@@ -107,7 +107,6 @@ body {
   .explanationContainer {
     width: 40%;
     height: 30%;
-    font-size: 0.9rem;
   }
   .sayingContainer {
     width: 40%;
