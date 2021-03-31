@@ -21,7 +21,7 @@ body {
 
 .titleContainer h1 {
   width: 60%;
-  font-size: 1.5em;
+  font-size: 1.25rem;
   font-weight: 600;
   text-align: center;
 }
@@ -40,12 +40,13 @@ body {
 }
 
 .titleContainer button {
-  padding: 0.75em 0.5em;
-  border: 0.1em black solid;
-  border-radius: 0.5em;
-  box-shadow: 0 0.1em 0.2em rgba(0, 0, 0, 1), 0 0.4em 0.4em rgba(0, 0, 0, 0);
+  padding: 0.75rem 0.5rem;
+  border: 0.1rem black solid;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 1), 0 0.4rem 0.4rem rgba(0, 0, 0, 0);
   cursor: pointer;
-  font-size: 0.8em;
+  font-size: 0.75rem;
+  font-weight: 600;
   background-color: white;
 }
 
@@ -55,14 +56,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 0.5em;
-  box-shadow: 0 0.1em 0.2em rgb(0, 0, 0), 0 0.1em 0.1em rgb(0, 0, 0);
+  border-radius: 0.5rem;
+  box-shadow: 0 0.1rem 0.2rem rgb(0, 0, 0), 0 0.1rem 0.1rem rgb(0, 0, 0);
   background: no-repeat center/100% url("paper_texture1.jpg");
 }
 
 .explanationContainer p {
   width: 90%;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   text-align: center;
 }
 
@@ -72,13 +73,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 0.5em;
-  box-shadow: 0 0.1em 0.2em rgb(0, 0, 0), 0 0.1em 0.1em rgb(0, 0, 0);
+  border-radius: 0.5rem;
+  box-shadow: 0 0.1rem 0.2rem rgb(0, 0, 0), 0 0.1rem 0.1rem rgb(0, 0, 0);
 }
 
 .stepContainer p {
   width: 90%;
-  font-size: 0.9em;
+  font-size: 0.9rem;
   text-align: center;
 }
 
